@@ -2,6 +2,10 @@
 
 Coming soon
 
+See in action:
+
+[![asciicast](https://asciinema.org/a/340482.svg)](https://asciinema.org/a/340482)
+
 ---
 
 ### Categories
