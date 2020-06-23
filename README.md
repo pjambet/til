@@ -18,6 +18,7 @@ See in action:
 ### Git
 
 - [hunk format](git/2020-06-16_hunk-format.md)
+- [Git Revision Format](git/2020-06-22_git-revision-format.md)
 
 ### Unix
 - [less environment variables](unix/2020-06-17_less-environment-variables.md)
