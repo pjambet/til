@@ -24,6 +24,10 @@ See in action:
 
 - [Automatically add anchors](javascript/2020-06-23_automatically-add-anchors.md)
 
+### Ruby
+
+- [Use StringScanner to ... scan strings](ruby/2020-06-23_use-stringscanner-to-...-scan-strings.md)
+
 ### Unix
 - [less environment variables](unix/2020-06-17_less-environment-variables.md)
 - [List files in a directory](unix/2020-06-17_list-files-in-a-directory.md)
