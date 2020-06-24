@@ -1,10 +1,6 @@
 # TIL
 
-Coming soon
-
-See in action:
-
-[![asciicast](https://asciinema.org/a/340482.svg)](https://asciinema.org/a/340482)
+A repository of TIL, organized by categories, the idea comes from https://github.com/jbranchaud/til
 
 ---
 
