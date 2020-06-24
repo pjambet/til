@@ -11,6 +11,8 @@ See in action:
 ### Categories
 
 * [Git](#git)
+* [Javascript](#javascript)
+* [Ruby](#ruby)
 * [Unix](#unix)
 
 ---
