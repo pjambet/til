@@ -11,6 +11,7 @@ See in action:
 ### Categories
 
 * [Git](#git)
+* [Haskell](#haskell)
 * [Javascript](#javascript)
 * [Ruby](#ruby)
 * [Unix](#unix)
@@ -21,6 +22,10 @@ See in action:
 
 - [hunk format](git/2020-06-16_hunk-format.md)
 - [Git Revision Format](git/2020-06-22_git-revision-format.md)
+
+### Haskell
+
+- [Monads](haskell/2020-06-24_monads.md)
 
 ### Javascript
 
