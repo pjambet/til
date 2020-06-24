@@ -10,6 +10,7 @@ See in action:
 
 ### Categories
 
+* [Clojure](#clojure)
 * [Git](#git)
 * [Haskell](#haskell)
 * [Javascript](#javascript)
@@ -18,6 +19,10 @@ See in action:
 * [Zsh](#zsh)
 
 ---
+
+### Clojure
+
+- [zips](clojure/2020-06-24_zips.md)
 
 ### Git
 
