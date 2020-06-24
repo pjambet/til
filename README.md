@@ -42,6 +42,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [List files in a directory](unix/2020-06-17_list-files-in-a-directory.md)
 - [Carriage Return resets the cursor position](unix/2020-06-17_carriage-return-resets-the-cursor-position.md)
 - [Move cursor when priting to terminal](unix/2020-06-17_move-cursor-when-priting-to-terminal.md)
+- [Get a calendar from the command line](unix/2020-06-24_get-a-calendar-from-the-command-line.md)
 
 ### Zsh
 
