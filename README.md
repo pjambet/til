@@ -15,6 +15,7 @@ See in action:
 * [Javascript](#javascript)
 * [Ruby](#ruby)
 * [Unix](#unix)
+* [Zsh](#zsh)
 
 ---
 
@@ -40,3 +41,7 @@ See in action:
 - [List files in a directory](unix/2020-06-17_list-files-in-a-directory.md)
 - [Carriage Return resets the cursor position](unix/2020-06-17_carriage-return-resets-the-cursor-position.md)
 - [Move cursor when priting to terminal](unix/2020-06-17_move-cursor-when-priting-to-terminal.md)
+
+### Zsh
+
+- [For loops!](zsh/2020-06-24_for-loops!.md)
