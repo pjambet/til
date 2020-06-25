@@ -7,6 +7,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 ### Categories
 
 * [Clojure](#clojure)
+* [Emacs](#emacs)
 * [Git](#git)
 * [Haskell](#haskell)
 * [Javascript](#javascript)
@@ -19,6 +20,10 @@ A repository of TIL, organized by categories, the idea comes from https://github
 ### Clojure
 
 - [zips](clojure/2020-06-24_zips.md)
+
+### Emacs
+
+- [Set the current buffer to read-only](emacs/2020-06-25_set-the-current-buffer-to-read-only.md)
 
 ### Git
 
