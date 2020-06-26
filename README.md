@@ -41,6 +41,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 ### Ruby
 
 - [Use StringScanner to ... scan strings](ruby/2020-06-23_use-stringscanner-to-...-scan-strings.md)
+- [Ruby 2.7 adds Enumerable#filter_map](ruby/2020-06-26_ruby-2.7-adds-enumerable%23filter_map.md)
 
 ### Unix
 - [less environment variables](unix/2020-06-17_less-environment-variables.md)
