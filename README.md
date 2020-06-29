@@ -27,6 +27,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [Set the current buffer to read-only](emacs/2020-06-25_set-the-current-buffer-to-read-only.md)
 - [Set fill-column for git commit](emacs/2020-06-28_set-fill-column-for-git-commit.md)
 - [Removing/Altering Key Bindings from Minor Mode Keymaps](emacs/2020-06-29_removing%2Faltering-key-bindings-from-minor-mode-keymaps.md)
+- [Disable ruby-rubocop when editing code blocks](emacs/2020-06-29_disable-ruby-rubocop-when-editing-code-blocks.md)
 
 ### Git
 
