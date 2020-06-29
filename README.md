@@ -13,6 +13,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 * [Javascript](#javascript)
 * [Ruby](#ruby)
 * [Unix](#unix)
+* [Vim](#vim)
 * [Zsh](#zsh)
 
 ---
@@ -51,6 +52,10 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [Carriage Return resets the cursor position](unix/2020-06-17_carriage-return-resets-the-cursor-position.md)
 - [Move cursor when priting to terminal](unix/2020-06-17_move-cursor-when-priting-to-terminal.md)
 - [Get a calendar from the command line](unix/2020-06-24_get-a-calendar-from-the-command-line.md)
+
+### Vim
+
+- [Format a paragraph](vim/2020-06-29_format-a-paragraph.md)
 
 ### Zsh
 
