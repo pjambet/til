@@ -7,7 +7,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 ### Categories
 
 * [Clojure](#clojure)
-* [Css](#css)
+* [CSS](#css)
 * [Emacs](#emacs)
 * [Git](#git)
 * [Haskell](#haskell)
@@ -23,7 +23,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 
 - [zips](clojure/2020-06-24_zips.md)
 
-### Css
+### CSS
 
 - [SVG Stroke & Fill properties](css/2020-06-30_svg-stroke-%26-fill-properties.md)
 
