@@ -26,6 +26,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 ### CSS
 
 - [SVG Stroke & Fill properties](css/2020-06-30_svg-stroke-%26-fill-properties.md)
+- [How to style hr elements in CSS](css/2020-06-30_how-to-style-hr-elements-in-css.md)
 
 ### Emacs
 
