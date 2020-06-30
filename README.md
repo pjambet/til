@@ -58,6 +58,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [Carriage Return resets the cursor position](unix/2020-06-17_carriage-return-resets-the-cursor-position.md)
 - [Move cursor when priting to terminal](unix/2020-06-17_move-cursor-when-priting-to-terminal.md)
 - [Get a calendar from the command line](unix/2020-06-24_get-a-calendar-from-the-command-line.md)
+- [Navigate to the last location with `-`](unix/2020-06-30_navigate-to-the-last-location-with-%60-%60.md)
 
 ### Vim
 
