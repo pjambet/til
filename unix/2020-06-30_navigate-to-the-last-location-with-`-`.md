@@ -24,8 +24,8 @@ Use `-` with `cd` to mean "the previous location", here is an example:
 In the previous example, we're starting from my home directory, `~`, manually
 `cd`-ing in `~/dev/til`, then manually `cd`-ing in `~/dev/sandbox/til-rb`, and
 then going back to `~/dev/til` by using `cd -`, and then back to
-`~/dev/sandbox/til-rb` by runnin `cd -` again. You can think of it as the
-"Last" button on your remote, if you keep on pressing it, you will toggle
+`~/dev/sandbox/til-rb` by running `cd -` again. You can think of it as the
+"Last" button on your TV remote, if you keep on pressing it, you will toggle
 between the last channel and the one you're currently watching, and so on. Same
 here!
 
