@@ -11,6 +11,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 * [Emacs](#emacs)
 * [Git](#git)
 * [Haskell](#haskell)
+* [Html](#html)
 * [Javascript](#javascript)
 * [Ruby](#ruby)
 * [Unix](#unix)
@@ -45,6 +46,10 @@ A repository of TIL, organized by categories, the idea comes from https://github
 ### Haskell
 
 - [Monads](haskell/2020-06-24_monads.md)
+
+### Html
+
+- [Use titles](html/2020-07-01_use-titles.md)
 
 ### Javascript
 
