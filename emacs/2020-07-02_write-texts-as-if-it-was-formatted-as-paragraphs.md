@@ -39,3 +39,19 @@ second one enables `visual-fill-column-mode` when I am in `visual-line-mode`.
 Finally, make sure that `word-wrap` is set to `t` so that lines look nice!
 
 And that's it!
+
+### Screenshots:
+
+#### With `visual-line` and `visual-fill-column` (`fill-column` at 120)
+
+![A screenshot with word-wrap, visual-line and visual-fill-column](final.png)
+
+
+#### With `visual-line` and `visual-fill-column` (`fill-column` at 120)
+
+![A screenshot with word-wrap and visual-line,without visual-fill-column](without-visual-fill-column.png)
+
+
+#### With `visual-line` and `visual-fill-column` (`fill-column` at 120)
+
+![A screenshot without word-wrap](without-word-wrap.png)
