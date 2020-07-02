@@ -47,11 +47,11 @@ And that's it!
 ![A screenshot with word-wrap, visual-line and visual-fill-column](2020-07-02_write-texts-as-if-it-was-formatted-as-paragraphs/final.png)
 
 
-#### With `visual-line` and `visual-fill-column` (`fill-column` at 120)
+#### With `visual-line` and `wrod-wrap`, without `visual-fill-column` (`fill-column` at 120)
 
 ![A screenshot with word-wrap and visual-line,without visual-fill-column](2020-07-02_write-texts-as-if-it-was-formatted-as-paragraphs/without-visual-fill-column.png)
 
 
-#### With `visual-line` and `visual-fill-column` (`fill-column` at 120)
+#### With `visual-line` and `visual-fill-column` but without `word-wrap` (`fill-column` at 120)
 
 ![A screenshot without word-wrap](2020-07-02_write-texts-as-if-it-was-formatted-as-paragraphs/without-word-wrap.png)
