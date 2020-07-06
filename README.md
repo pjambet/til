@@ -38,6 +38,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [Removing/Altering Key Bindings from Minor Mode Keymaps](emacs/2020-06-29_removing%2Faltering-key-bindings-from-minor-mode-keymaps.md)
 - [Disable ruby-rubocop when editing code blocks](emacs/2020-06-29_disable-ruby-rubocop-when-editing-code-blocks.md)
 - [Write texts as if it was formatted as paragraphs](emacs/2020-07-02_write-texts-as-if-it-was-formatted-as-paragraphs.md)
+- [Use aspell with emacs to spell check a buffer](emacs/2020-07-06_use-aspell-with-emacs-to-spell-check-a-buffer.md)
 
 ### Git
 
