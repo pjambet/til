@@ -69,6 +69,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [Move cursor when priting to terminal](unix/2020-06-17_move-cursor-when-priting-to-terminal.md)
 - [Get a calendar from the command line](unix/2020-06-24_get-a-calendar-from-the-command-line.md)
 - [Navigate to the last location with `-`](unix/2020-06-30_navigate-to-the-last-location-with-%60-%60.md)
+- [Count words for all files in a folder](unix/2020-07-07_count-words-for-all-files-in-a-folder.md)
 
 ### Vim
 
