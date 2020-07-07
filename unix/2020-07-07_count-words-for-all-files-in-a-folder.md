@@ -1,7 +1,7 @@
 # Count words for all files in a folder
 
 I wanted to run `wc` to count all the words for the different chapters of
-redis.pjam.me, they're all the same folder, so I thought about `ls`, `|` and
+[redis.pjam.me](https://redis.pjam.me), they're all the same folder, so I thought about `ls`, `|` and
 `xargs` but my first attempt failed and it took me a while to get it, the
 answer wasn't that crazy but anyway, here it is:
 
