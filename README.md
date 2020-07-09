@@ -44,7 +44,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 
 ### F#
 
-- [A function returning another function](f#/2020-07-08_a-function-returning-another-function.md)
+- [A function returning another function](f%23/2020-07-08_a-function-returning-another-function.md)
 
 ### Git
 
