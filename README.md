@@ -9,6 +9,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 * [Clojure](#clojure)
 * [CSS](#css)
 * [Emacs](#emacs)
+* [F#](#f#)
 * [Git](#git)
 * [Haskell](#haskell)
 * [Html](#html)
@@ -40,6 +41,10 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [Write texts as if it was formatted as paragraphs](emacs/2020-07-02_write-texts-as-if-it-was-formatted-as-paragraphs.md)
 - [Use aspell with emacs to spell check a buffer](emacs/2020-07-06_use-aspell-with-emacs-to-spell-check-a-buffer.md)
 - [Insert current date/timestamp](emacs/2020-07-07_insert-current-date%2Ftimestamp.md)
+
+### F#
+
+- [A function returning another function](f#/2020-07-08_a-function-returning-another-function.md)
 
 ### Git
 
