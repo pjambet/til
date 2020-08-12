@@ -77,6 +77,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [Get a calendar from the command line](unix/2020-06-24_get-a-calendar-from-the-command-line.md)
 - [Navigate to the last location with `-`](unix/2020-06-30_navigate-to-the-last-location-with-%60-%60.md)
 - [Count words for all files in a folder](unix/2020-07-07_count-words-for-all-files-in-a-folder.md)
+- [select(2) semantics with multiple events](unix/2020-08-12_select%282%29-semantics-with-multiple-events.md)
 
 ### Vim
 
