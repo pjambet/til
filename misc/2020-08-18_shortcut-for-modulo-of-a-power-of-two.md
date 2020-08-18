@@ -2,7 +2,7 @@
 
 I was reading the Redis source code, specifically the siphash.c file, as well
 as [this Ruby
-version][https://github.com/emboss/siphash-ruby/blob/master/lib/siphash.rb#L25]
+version](https://github.com/emboss/siphash-ruby/blob/master/lib/siphash.rb#L25)
 and I noticed that they both seemed to do achieve the same thing but
 differently. Redis used `n & 7` while the Ruby version used `n % 8`
 
