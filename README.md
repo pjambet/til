@@ -9,11 +9,11 @@ A repository of TIL, organized by categories, the idea comes from https://github
 * [Clojure](#clojure)
 * [CSS](#css)
 * [Emacs](#emacs)
-* [F#](#f)
 * [Git](#git)
 * [Haskell](#haskell)
 * [Html](#html)
 * [Javascript](#javascript)
+* [Misc](#misc)
 * [Ruby](#ruby)
 * [Unix](#unix)
 * [Vim](#vim)
@@ -58,6 +58,10 @@ A repository of TIL, organized by categories, the idea comes from https://github
 ### Html
 
 - [Use titles](html/2020-07-01_use-titles.md)
+
+### Misc
+
+- [Shortcut for modulo of a power of two](misc/2020-08-18_shortcut-for-modulo-of-a-power-of-two.md)
 
 ### Javascript
 
