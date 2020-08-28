@@ -14,8 +14,9 @@ It seems to work with all power of twos:
 
 Not a proof, but just to test, it seems to work:
 
-```
-random_number = rand 10_000_000_000; (1..1_000).each do |i|
+``` ruby
+random_number = rand 10_000_000_000
+(1..1_000).each do |i|
   unless (random_number * (2**(i)+1) == (random_number << i) + random_number )
     raise "Yo, that doesn't work for #{ i }"
   end
