@@ -2,8 +2,7 @@
 
 Based on code I saw
 (https://github.com/pjambet/til/blob/master/misc/2020-08-28_a-simple-hash-function.md
-for instance), it looks like a shortcut to multiply a number by "power of two
-+ 1" is to use a left bitshift by the power of the previous number and the
+for instance), it looks like a shortcut to multiply a number by "power of two + 1" is to use a left bitshift by the power of the previous number and the
 number, here's an example because that wasn't clear:
 
 33 is 2**5 + 1, so n * 33 is also (n << 5) + n
