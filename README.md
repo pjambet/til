@@ -63,6 +63,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 
 - [Shortcut for modulo of a power of two](misc/2020-08-18_shortcut-for-modulo-of-a-power-of-two.md)
 - [A simple Hash function](misc/2020-08-28_a-simple-hash-function.md)
+- [Multiplying by power of twos and bit shifts](misc/2020-08-28_multiplying-by-power-of-twos-and-bit-shifts.md)
 
 ### Javascript
 
