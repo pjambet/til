@@ -36,7 +36,7 @@ Note: it took me a while to figure out why it was 32 bytes, so here you go:
 8 for each of the first three pointers, a pointer is always a 64-bit integer on
 a 64-bit machine apparently, so that's 24 (8*3) bytes right there.
 The first int, `sz` adds 4, we're at 28.
-The next bit field optimized field all fit in a single `int` (4 bytes):
+The next bit field optimized fields all fit in a single `int` (4 bytes):
 
 ```
 16 + 2 + 2 + 1 + 1 + 10 = 32 (8*4)
