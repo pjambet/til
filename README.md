@@ -6,6 +6,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 
 ### Categories
 
+* [C](#c)
 * [Clojure](#clojure)
 * [CSS](#css)
 * [Emacs](#emacs)
@@ -20,6 +21,10 @@ A repository of TIL, organized by categories, the idea comes from https://github
 * [Zsh](#zsh)
 
 ---
+
+### C
+
+- [Bit fields](c/2020-09-01_bit-fields.md)
 
 ### Clojure
 
