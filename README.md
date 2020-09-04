@@ -9,7 +9,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 * [C](#c)
 * [Clojure](#clojure)
 * [CSS](#css)
-* [Data structures](#data structures)
+* [Data structures](#data-structures)
 * [Emacs](#emacs)
 * [Git](#git)
 * [Haskell](#haskell)
