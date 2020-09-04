@@ -9,6 +9,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 * [C](#c)
 * [Clojure](#clojure)
 * [CSS](#css)
+* [Data structures](#data structures)
 * [Emacs](#emacs)
 * [Git](#git)
 * [Haskell](#haskell)
@@ -36,6 +37,10 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [How to style hr elements in CSS](css/2020-06-30_how-to-style-hr-elements-in-css.md)
 - [Test test](css/2020-07-01_test-test.md)
 - [Set the background color](css/2020-07-01_set-the-background-color.md)
+
+### Data structures
+
+- [Skiplists — a probabilistic data structure](data structures/2020-09-04_skiplists-%E2%80%94-a-probabilistic-data-structure.md)
 
 ### Emacs
 
