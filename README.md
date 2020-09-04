@@ -23,6 +23,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 
 ---
 - [malloc vs calloc](c/2020-09-04_malloc-vs-calloc.md)
+- [malloc doesn't necessarily allocate the exact number of bytes you ask for](c/2020-09-04_malloc-doesn%27t-necessarily-allocate-the-exact-number-of-bytes-you-ask-for.md)
 
 ### C
 
