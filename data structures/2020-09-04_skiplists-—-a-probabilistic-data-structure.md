@@ -28,8 +28,6 @@ To quote wikipedia:
 
 Read more on [wikipedia][2]
 
-What did you learn about data structures today
-
 [1]:https://github.com/antirez/redis/blob/6.0/src/server.h#L899-L914
 [2]:https://en.wikipedia.org/wiki/Skip_list
 
