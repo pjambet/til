@@ -40,7 +40,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 
 ### Data structures
 
-- [Skiplists — a probabilistic data structure](data%20structures/2020-09-04_skiplists-%E2%80%94-a-probabilistic-data-structure.md)
+- [Skiplists - a probabilistic data structure](data%20structures/2020-09-04_skiplists-%E2%80%94-a-probabilistic-data-structure.md)
 
 ### Emacs
 
