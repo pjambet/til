@@ -22,12 +22,12 @@ A repository of TIL, organized by categories, the idea comes from https://github
 * [Zsh](#zsh)
 
 ---
-- [malloc vs calloc](c/2020-09-04_malloc-vs-calloc.md)
-- [malloc doesn't necessarily allocate the exact number of bytes you ask for](c/2020-09-04_malloc-doesn%27t-necessarily-allocate-the-exact-number-of-bytes-you-ask-for.md)
 
 ### C
 
 - [Bit fields](c/2020-09-01_bit-fields.md)
+- [malloc vs calloc](c/2020-09-04_malloc-vs-calloc.md)
+- [malloc doesn't necessarily allocate the exact number of bytes you ask for](c/2020-09-04_malloc-doesn%27t-necessarily-allocate-the-exact-number-of-bytes-you-ask-for.md)
 
 ### Clojure
 
