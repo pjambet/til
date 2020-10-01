@@ -88,6 +88,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [Ruby 2.7 adds Enumerable#filter_map](ruby/2020-06-26_ruby-2.7-adds-enumerable%23filter_map.md)
 - [Build a fixed size array from scratch](ruby/2020-08-10_build-a-fixed-size-array-from-scratch.md)
 - [Print a number as binary](ruby/2020-08-31_print-a-number-as-binary.md)
+- [Forcing integer overflow](ruby/2020-09-30_forcing-integer-overflow.md)
 
 ### Unix
 - [less environment variables](unix/2020-06-17_less-environment-variables.md)
