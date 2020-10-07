@@ -77,6 +77,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [A simple Hash function](misc/2020-08-28_a-simple-hash-function.md)
 - [Multiplying by power of twos and bit shifts](misc/2020-08-28_multiplying-by-power-of-twos-and-bit-shifts.md)
 - [Create and share beautiful images of your source code](misc/2020-08-31_create-and-share-beautiful-images-of-your-source-code.md)
+- [Adding man pages to an ubuntu box running through Vagrant](misc/2020-10-07_adding-man-pages-to-an-ubuntu-box-running-through-vagrant.md)
 
 ### Javascript
 
