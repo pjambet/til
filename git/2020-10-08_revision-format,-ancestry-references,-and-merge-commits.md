@@ -21,11 +21,11 @@ https://github.com/git/git/blob/v1.8.5/Documentation/RelNotes/1.8.5.txt#L100-101
 Thank you StackOverflow for this: https://stackoverflow.com/a/17910097/919641
 
 
-- @^ Means the first parent of HEAD/@, it is equivalent to @~, HEAD^ & HEAD~
-- The last bit ^{tree} is because by default you'd get the commit object, which
-  you can request with ^{commit}, but why would you, it's the default
-- Now, ^ vs ~ is interesting for merge commits, where you can have more than
-  one parent, and ^2 means, the second parent, where usually the first parent is
+- `@^` Means the first parent of HEAD/@, it is equivalent to `@~`, `HEAD^` & `HEAD~`
+- The last bit `^{tree}` is because by default you'd get the commit object, which
+  you can request with `^{commit}`, but why would you, it's the default
+- Now, `^` vs `~` is interesting for merge commits, where you can have more than
+  one parent, and `^2` means, the second parent, where usually the first parent is
   the one on the branch you were when you merged (usually master)
 
 So what this all means is that you could also say "Go back two commits", with
