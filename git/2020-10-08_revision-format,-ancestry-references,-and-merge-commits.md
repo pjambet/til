@@ -28,8 +28,8 @@ Thank you StackOverflow for this: https://stackoverflow.com/a/17910097/919641
   one parent, and ^2 means, the second parent, where usually the first parent is
   the one on the branch you were when you merged (usually master)
 
-So what this all means is that you could also say "Go back three commits", with
-`@~~~`, `@^^^`, `@~3`, but if you say `@^2`, you would either go back to the
+So what this all means is that you could also say "Go back two commits", with
+`@~~`, `@^^`, `@~2`, but if you say `@^2`, you would either go back to the
 second parent, if there's one, which only happens for a merge commit, or an
 error otherwise.
 
