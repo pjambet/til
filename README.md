@@ -91,6 +91,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [Build a fixed size array from scratch](ruby/2020-08-10_build-a-fixed-size-array-from-scratch.md)
 - [Print a number as binary](ruby/2020-08-31_print-a-number-as-binary.md)
 - [Forcing integer overflow](ruby/2020-09-30_forcing-integer-overflow.md)
+- [The then method](ruby/2020-10-10_the-then-method.md)
 
 ### Unix
 - [less environment variables](unix/2020-06-17_less-environment-variables.md)
