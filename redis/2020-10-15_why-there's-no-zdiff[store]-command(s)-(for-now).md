@@ -34,9 +34,8 @@ s1 = { < 30, 'pierre' >, < 25, 'jane' >, < 35, 'john' > } # A sorted of unique u
 s2 = { < 28, 'john' > }
 ```
 
-Computing `ZDIFF s1 s2`, aka `s1 - s2`, _could_ be the set: `{  < 30, 'pierre'
->, < 25, 'jane' >  }`, but that would mean that the score of `john` in the
-second set, `28`, was completely ignored.
+Computing `ZDIFF s1 s2`, aka `s1 - s2`, _could_ be the set: `{  < 30, 'pierre'>, < 25, 'jane' >  }`, 
+but that would mean that the score of `john` in the second set, `28`, was completely ignored.
 
 Interestingly, in a different thread from earlier that year, Peter didn't seem
 opposed to the idea:
