@@ -9,13 +9,13 @@ A repository of TIL, organized by categories, the idea comes from https://github
 * [C](#c)
 * [Clojure](#clojure)
 * [CSS](#css)
-* [Data structures](#data-structures)
 * [Emacs](#emacs)
 * [Git](#git)
 * [Haskell](#haskell)
 * [Html](#html)
 * [Javascript](#javascript)
 * [Misc](#misc)
+* [Redis](#redis)
 * [Ruby](#ruby)
 * [Unix](#unix)
 * [Vim](#vim)
@@ -71,6 +71,10 @@ A repository of TIL, organized by categories, the idea comes from https://github
 ### Html
 
 - [Use titles](html/2020-07-01_use-titles.md)
+
+### Redis
+
+- [Why there's no ZDIFF[STORE] command(s) (for now)](redis/2020-10-15_why-there%27s-no-zdiff%5Bstore%5D-command%28s%29-%28for-now%29.md)
 
 ### Misc
 
