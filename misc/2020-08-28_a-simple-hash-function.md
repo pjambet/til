@@ -4,7 +4,7 @@ Found on http://www.cse.yorku.ca/~oz/hash.html, here is a ruby implementation
 of djb2:
 
 ```ruby
-def djb1(string)
+def djb2(string)
   hash = 5381
   string.chars.each do |char|
     # Equivalent to: hash * 33 + char.ord
