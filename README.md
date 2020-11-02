@@ -22,6 +22,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 * [Zsh](#zsh)
 
 ---
+- [Flexible array member](c/2020-11-02_flexible-array-member.md)
 
 ### C
 
