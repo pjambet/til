@@ -15,6 +15,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 * [Html](#html)
 * [Hugo](#hugo)
 * [Javascript](#javascript)
+* [Macos](#macos)
 * [Misc](#misc)
 * [Redis](#redis)
 * [Ruby](#ruby)
@@ -73,6 +74,10 @@ A repository of TIL, organized by categories, the idea comes from https://github
 ### Haskell
 
 - [Monads](haskell/2020-06-24_monads.md)
+
+### Macos
+
+- [Using two homebrew directories](macos/2020-12-19_using-two-homebrew-directories.md)
 
 ### Html
 
