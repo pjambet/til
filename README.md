@@ -13,6 +13,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 * [Git](#git)
 * [Haskell](#haskell)
 * [Html](#html)
+* [Hugo](#hugo)
 * [Javascript](#javascript)
 * [Misc](#misc)
 * [Redis](#redis)
@@ -64,6 +65,10 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [hunk format](git/2020-06-16_hunk-format.md)
 - [Git Revision Format](git/2020-06-22_git-revision-format.md)
 - [Revision format, Ancestry references, and merge commits](git/2020-10-08_revision-format%2C-ancestry-references%2C-and-merge-commits.md)
+
+### Hugo
+
+- [GitInfo settings](hugo/2020-12-19_gitinfo-settings.md)
 
 ### Haskell
 
