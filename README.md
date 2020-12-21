@@ -66,6 +66,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [hunk format](git/2020-06-16_hunk-format.md)
 - [Git Revision Format](git/2020-06-22_git-revision-format.md)
 - [Revision format, Ancestry references, and merge commits](git/2020-10-08_revision-format%2C-ancestry-references%2C-and-merge-commits.md)
+- [`git pull` is like `git fetch` and `git merge`](git/2020-12-21_%60git-pull%60-is-like-%60git-fetch%60-and-%60git-merge%60.md)
 
 ### Hugo
 
