@@ -19,6 +19,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 * [Misc](#misc)
 * [Redis](#redis)
 * [Ruby](#ruby)
+* [Tmux](#tmux)
 * [Unix](#unix)
 * [Vim](#vim)
 * [Zsh](#zsh)
@@ -95,6 +96,10 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [Multiplying by power of twos and bit shifts](misc/2020-08-28_multiplying-by-power-of-twos-and-bit-shifts.md)
 - [Create and share beautiful images of your source code](misc/2020-08-31_create-and-share-beautiful-images-of-your-source-code.md)
 - [Adding man pages to an ubuntu box running through Vagrant](misc/2020-10-07_adding-man-pages-to-an-ubuntu-box-running-through-vagrant.md)
+
+### Tmux
+
+- [Restore C-k after installing vim-tmux-navigator](tmux/2020-12-23_restore-c-k-after-installing-vim-tmux-navigator.md)
 
 ### Javascript
 
