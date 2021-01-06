@@ -96,6 +96,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [Multiplying by power of twos and bit shifts](misc/2020-08-28_multiplying-by-power-of-twos-and-bit-shifts.md)
 - [Create and share beautiful images of your source code](misc/2020-08-31_create-and-share-beautiful-images-of-your-source-code.md)
 - [Adding man pages to an ubuntu box running through Vagrant](misc/2020-10-07_adding-man-pages-to-an-ubuntu-box-running-through-vagrant.md)
+- [Gnu Units is a thing! (and it's cool)](misc/2021-01-06_gnu-units-is-a-thing%21-%28and-it%27s-cool%29.md)
 
 ### Tmux
 
