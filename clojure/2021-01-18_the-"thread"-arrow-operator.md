@@ -34,5 +34,4 @@ Docs:
 - https://clojure.org/guides/threading_macros
 - https://clojure.github.io/clojure/clojure.core-api.html#clojure.core/-%3E
 
-There are other functions, such as tread-last `->>` and `as->`, which I know
-nothing about at this point
+There are other functions, such as `as->`, which I know nothing about at this point
