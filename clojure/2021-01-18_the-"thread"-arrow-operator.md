@@ -1,6 +1,6 @@
 # The "thread" arrow operator
 
-Nothing to do with "Threads" as in the treads in a process, concurrency,
+Nothing to do with "Threads" as in the threads in a process, concurrency,
 parallelism and all that.
 
 It seems similar to the pipe operator in Elixir, to chain function calls.
