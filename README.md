@@ -36,6 +36,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 ### Clojure
 
 - [zips](clojure/2020-06-24_zips.md)
+- [The "thread" arrow operator](clojure/2021-01-18_the-%22thread%22-arrow-operator.md)
 
 ### CSS
 
