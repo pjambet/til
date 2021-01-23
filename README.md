@@ -130,6 +130,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 ### Vim
 
 - [Format a paragraph](vim/2020-06-29_format-a-paragraph.md)
+- [You can quit vim with ZZ](vim/2021-01-23_you-can-quit-vim-with-zz.md)
 
 ### Zsh
 
