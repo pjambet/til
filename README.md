@@ -14,7 +14,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 * [Haskell](#haskell)
 * [Html](#html)
 * [Hugo](#hugo)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
 * [macOS](#macos)
 * [Misc](#misc)
 * [Redis](#redis)
@@ -103,7 +103,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 
 - [Restore C-k after installing vim-tmux-navigator](tmux/2020-12-23_restore-c-k-after-installing-vim-tmux-navigator.md)
 
-### Javascript
+### JavaScript
 
 - [Automatically add anchors](javascript/2020-06-23_automatically-add-anchors.md)
 
