@@ -127,6 +127,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [select(2) semantics with multiple events](unix/2020-08-12_select%282%29-semantics-with-multiple-events.md)
 - [SIGSTOP & SIGCONT](unix/2020-08-17_sigstop-%26-sigcont.md)
 - [The path_helper utility initializes the path variable](unix/2021-01-30_the-path_helper-utility-initializes-the-path-variable.md)
+- [Prevent Ctrl-D from accidentally killing a shell](unix/2021-02-05_prevent-ctrl-d-from-accidentally-killing-a-shell.md)
 
 ### Vim
 
