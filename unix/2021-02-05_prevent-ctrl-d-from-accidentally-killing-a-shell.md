@@ -1,6 +1,6 @@
 # Prevent Ctrl-D from accidentally killing a shell
 
-Seems like these options are possible, but only the second one seems to work
+Looks like these options are similar, but only the second one seems to work
 with zsh, so I added it to my zshrc file!
 
 ```
