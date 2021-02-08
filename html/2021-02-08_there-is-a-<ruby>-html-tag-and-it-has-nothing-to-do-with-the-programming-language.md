@@ -1,4 +1,4 @@
-# There is a <ruby> html tag and it has nothing to do with the programming language
+# There is a \<ruby\> html tag and it has nothing to do with the programming language
 
 Quoting the link below:
 
