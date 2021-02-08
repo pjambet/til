@@ -86,7 +86,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 ### Html
 
 - [Use titles](html/2020-07-01_use-titles.md)
-- [There is a <ruby> html tag and it has nothing to do with the programming language](html/2021-02-08_there-is-a-%3Cruby%3E-html-tag-and-it-has-nothing-to-do-with-the-programming-language.md)
+- [There is a \<ruby\> html tag and it has nothing to do with the programming language](html/2021-02-08_there-is-a-%3Cruby%3E-html-tag-and-it-has-nothing-to-do-with-the-programming-language.md)
 
 ### Redis
 
