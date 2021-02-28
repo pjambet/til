@@ -130,6 +130,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [SIGSTOP & SIGCONT](unix/2020-08-17_sigstop-%26-sigcont.md)
 - [The path_helper utility initializes the path variable](unix/2021-01-30_the-path_helper-utility-initializes-the-path-variable.md)
 - [Prevent Ctrl-D from accidentally killing a shell](unix/2021-02-05_prevent-ctrl-d-from-accidentally-killing-a-shell.md)
+- [ls -F includes the trailing slash after directory names (and more)](unix/2021-02-28_ls--f-includes-the-trailing-slash-after-directory-names-%28and-more%29.md)
 
 ### Vim
 
