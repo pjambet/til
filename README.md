@@ -59,6 +59,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [Use aspell with emacs to spell check a buffer](emacs/2020-07-06_use-aspell-with-emacs-to-spell-check-a-buffer.md)
 - [Insert current date/timestamp](emacs/2020-07-07_insert-current-date%2Ftimestamp.md)
 - [Run `doom env` after making changes to your env](emacs/2021-02-07_run-%60doom-env%60-after-making-changes-to-your-env.md)
+- [Navigating with ivy and show previews](emacs/2021-03-28_navigating-with-ivy-and-show-previews.md)
 
 ### F#
 
