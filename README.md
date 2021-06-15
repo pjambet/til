@@ -143,3 +143,4 @@ A repository of TIL, organized by categories, the idea comes from https://github
 ### Zsh
 
 - [For loops!](zsh/2020-06-24_for-loops!.md)
+- [pushd & popd](zsh/2021-06-15_pushd-%26-popd.md)
