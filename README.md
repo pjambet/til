@@ -84,6 +84,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 ### macOS
 
 - [Using two homebrew directories](macos/2020-12-19_using-two-homebrew-directories.md)
+- [SIGINFO (Ctrl -T)](macos/2021-06-21_siginfo-%28ctrl--t%29.md)
 
 ### Html
 
