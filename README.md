@@ -72,6 +72,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [Git Revision Format](git/2020-06-22_git-revision-format.md)
 - [Revision format, Ancestry references, and merge commits](git/2020-10-08_revision-format%2C-ancestry-references%2C-and-merge-commits.md)
 - [`git pull` is like `git fetch` and `git merge`](git/2020-12-21_%60git-pull%60-is-like-%60git-fetch%60-and-%60git-merge%60.md)
+- [Bring back a deleted file](git/2021-12-14_bring-back-a-deleted-file.md)
 
 ### Hugo
 
