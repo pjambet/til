@@ -17,6 +17,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 * [JavaScript](#javascript)
 * [macOS](#macos)
 * [Misc](#misc)
+* [Rails](#rails)
 * [Redis](#redis)
 * [Ruby](#ruby)
 * [Tmux](#tmux)
@@ -91,6 +92,10 @@ A repository of TIL, organized by categories, the idea comes from https://github
 
 - [Use titles](html/2020-07-01_use-titles.md)
 - [There is a \<ruby\> html tag and it has nothing to do with the programming language](html/2021-02-08_there-is-a-%3Cruby%3E-html-tag-and-it-has-nothing-to-do-with-the-programming-language.md)
+
+### Rails
+
+- [The difference between preload and includes](rails/2021-12-14_the-difference-between-preload-and-includes.md)
 
 ### Redis
 
