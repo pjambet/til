@@ -96,6 +96,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 ### Rails
 
 - [The difference between preload and includes](rails/2021-12-14_the-difference-between-preload-and-includes.md)
+- [Active Record instances can be initialized through where](rails/2021-12-20_active-record-instances-can-be-initialized-through-where.md)
 
 ### Redis
 
