@@ -13,7 +13,7 @@ history and I can use it
 
 This is how you do it:
 
-```
+``` bash
 # Alias from default to main
 git symbolic-ref refs/heads/default refs/heads/main
 # Alias from default to master
