@@ -1,4 +1,4 @@
-# Count multiple things in a since sql query
+# Count multiple things in a single sql query
 
 Say that I want to count the rows in a table where a given column is null and not null,
 after filtering. For instance a `users` table where users were created after a given
