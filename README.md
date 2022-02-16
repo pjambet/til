@@ -117,7 +117,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 
 ### Sql
 
-- [Count multiple things in a since sql query](sql/2022-02-16_count-multiple-things-in-a-since-sql-query.md)
+- [Count multiple things in a single sql query](sql/2022-02-16_count-multiple-things-in-a-since-sql-query.md)
 
 ### Tmux
 
