@@ -135,6 +135,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [Print a number as binary](ruby/2020-08-31_print-a-number-as-binary.md)
 - [Forcing integer overflow](ruby/2020-09-30_forcing-integer-overflow.md)
 - [The then method](ruby/2020-10-10_the-then-method.md)
+- [Keep the program running but exit pry for now](ruby/2022-02-22_keep-the-program-running-but-exit-pry-for-now.md)
 
 ### Unix
 - [less environment variables](unix/2020-06-17_less-environment-variables.md)
