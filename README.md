@@ -155,6 +155,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 
 - [Format a paragraph](vim/2020-06-29_format-a-paragraph.md)
 - [You can quit vim with ZZ](vim/2021-01-23_you-can-quit-vim-with-zz.md)
+- [Count the number of selected lines](vim/2022-02-23_count-the-number-of-selected-lines.md)
 
 ### Zsh
 
