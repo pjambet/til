@@ -1,4 +1,4 @@
-# Measure elasped time the right way
+# Measure elapsed time the right way
 
 Don't use a comparison of two calls to `Time.now` and instead use
 `Process.clock_gettime(Process::CLOCK_MONOTONIC)`
