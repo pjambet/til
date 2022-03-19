@@ -137,6 +137,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [The then method](ruby/2020-10-10_the-then-method.md)
 - [Keep the program running but exit pry for now](ruby/2022-02-22_keep-the-program-running-but-exit-pry-for-now.md)
 - [Measure elapsed time the right way](ruby/2022-03-18_measure-elasped-time-the-right-way.md)
+- [require active support from irb](ruby/2022-03-19_require-active-support-from-irb.md)
 
 ### Unix
 - [less environment variables](unix/2020-06-17_less-environment-variables.md)
