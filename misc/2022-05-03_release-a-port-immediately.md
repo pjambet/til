@@ -20,5 +20,5 @@ if (setsockopt(sockfd, SOL_SOCKET, SO_REUSEADDR, &enable, sizeof(int)) < 0)
 
 Links:
 
-https://mobile.twitter.com/zeroprimezero/status/1271837883406712832
-https://stackoverflow.com/questions/24194961/how-do-i-use-setsockoptso-reuseaddr
+- https://mobile.twitter.com/zeroprimezero/status/1271837883406712832
+- https://stackoverflow.com/questions/24194961/how-do-i-use-setsockoptso-reuseaddr
