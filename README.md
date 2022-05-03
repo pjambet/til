@@ -114,6 +114,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [Gnu Units is a thing! (and it's cool)](misc/2021-01-06_gnu-units-is-a-thing%21-%28and-it%27s-cool%29.md)
 - [SSH Escape Sequences](misc/2021-03-14_ssh-escape-sequences.md)
 - [Using a config file for ripgrep (rg)](misc/2022-01-20_using-a-config-file-for-ripgrep-%28rg%29.md)
+- [Release a port immediately](misc/2022-05-03_release-a-port-immediately.md)
 
 ### Sql
 
