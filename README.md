@@ -115,6 +115,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [SSH Escape Sequences](misc/2021-03-14_ssh-escape-sequences.md)
 - [Using a config file for ripgrep (rg)](misc/2022-01-20_using-a-config-file-for-ripgrep-%28rg%29.md)
 - [Release a port immediately](misc/2022-05-03_release-a-port-immediately.md)
+- [piping output creates a new process](misc/2022-05-07_piping-output-creates-a-new-process.md)
 
 ### Sql
 
