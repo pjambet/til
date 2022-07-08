@@ -18,7 +18,7 @@ end
 Because doing this is essentially useless:
 
 ```ruby
-Model.published.scoping do
+Model.published do
   Model.first # will use the scope
 end
 ```
