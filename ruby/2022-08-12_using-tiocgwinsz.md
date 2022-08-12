@@ -6,7 +6,7 @@ I wanted to replicate the following from [kilo][1] in Ruby:
 if (ioctl(1, TIOCGWINSZ, &ws) == -1 || ws.ws_col == 0)
 ```
 
-I found the followin python [source][2]:
+I found the followin python ([source][2]):
 
 ```python
 import sys, struct, fcntl, termios
@@ -24,8 +24,8 @@ gem install termios
 ```
 
 `1` in the first example is for STDOUT as we can see in the python example, and
-`H` in the Python pack call is for "unsigned short" [source][3], as opposed to
-`H` in Ruby's pack which is for "hex string (high nibble first)" [source][4].
+`H` in the Python pack call is for "unsigned short" ([source][3](, as opposed to
+`H` in Ruby's pack which is for "hex string (high nibble first)" ([source][4]).
 unsigned short in ruby is `S_`. So here we are:
 
 ```ruby
