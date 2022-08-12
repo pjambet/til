@@ -24,7 +24,7 @@ gem install termios
 ```
 
 `1` in the first example is for STDOUT as we can see in the python example, and
-`H` in the Python pack call is for "unsigned short" ([source][3](, as opposed to
+`H` in the Python pack call is for "unsigned short" ([source][3]), as opposed to
 `H` in Ruby's pack which is for "hex string (high nibble first)" ([source][4]).
 unsigned short in ruby is `S_`. So here we are:
 
