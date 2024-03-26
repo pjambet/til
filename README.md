@@ -118,6 +118,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [Using a config file for ripgrep (rg)](misc/2022-01-20_using-a-config-file-for-ripgrep-%28rg%29.md)
 - [Release a port immediately](misc/2022-05-03_release-a-port-immediately.md)
 - [piping output creates a new process](misc/2022-05-07_piping-output-creates-a-new-process.md)
+- [The `cut` command](misc/2024-03-26_the-%60cut%60-command.md)
 
 ### Sql
 
