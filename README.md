@@ -169,3 +169,4 @@ A repository of TIL, organized by categories, the idea comes from https://github
 
 - [For loops!](zsh/2020-06-24_for-loops!.md)
 - [pushd & popd](zsh/2021-06-15_pushd-%26-popd.md)
+- [Profile zsh startup time](zsh/2024-03-27_profile-zsh-startup-time.md)
