@@ -76,6 +76,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [`git pull` is like `git fetch` and `git merge`](git/2020-12-21_%60git-pull%60-is-like-%60git-fetch%60-and-%60git-merge%60.md)
 - [Bring back a deleted file](git/2021-12-14_bring-back-a-deleted-file.md)
 - [Creating a branch alias with git](git/2022-02-07_creating-a-branch-alias-with-git.md)
+- [Rebase a stack of commits without dealing with conflicts](git/2024-05-17_rebase-a-stack-of-commits-without-dealing-with-conflicts.md)
 
 ### Hugo
 
