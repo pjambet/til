@@ -120,6 +120,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 - [Release a port immediately](misc/2022-05-03_release-a-port-immediately.md)
 - [piping output creates a new process](misc/2022-05-07_piping-output-creates-a-new-process.md)
 - [The `cut` command](misc/2024-03-26_the-%60cut%60-command.md)
+- [UTF8 encoding](misc/2024-12-31_utf8-encoding.md)
 
 ### Sql
 
