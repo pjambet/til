@@ -6,6 +6,7 @@ A repository of TIL, organized by categories, the idea comes from https://github
 
 ### Categories
 
+* [Ai](#ai)
 * [C](#c)
 * [Clojure](#clojure)
 * [CSS](#css)
@@ -27,6 +28,10 @@ A repository of TIL, organized by categories, the idea comes from https://github
 * [Zsh](#zsh)
 
 ---
+
+### Ai
+
+- [Newlines in pi](ai/2026-06-30_newlines-in-pi.md)
 
 ### C
 
